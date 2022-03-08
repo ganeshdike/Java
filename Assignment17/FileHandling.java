@@ -10,7 +10,7 @@ public class FileHandling
 {
 	public static void main(String[] args) 
 	{
-		int iVowels=0;
+		int iVowels=0 ;
 		int iNum=0;
 		try
 		{
