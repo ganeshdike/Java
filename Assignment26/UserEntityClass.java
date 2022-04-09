@@ -8,7 +8,8 @@ public class UserEntityClass
 	private String city;
 	private long mobileNo;
 	
-	public UserEntityClass() {
+	public UserEntityClass() 
+	{
 	}
 
 	public UserEntityClass(String firstName, String lastName, String city, long mobileNo) {
